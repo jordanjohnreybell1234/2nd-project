@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script type="text/javascript" src="js.js"></script>
+      <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+<body>
+      <div class="firstDiv" style="height: 250px; background: orange">
+      </div>
+ <!--button div-->
+      <div class="click" style="background: #ccc; width: 100%;text-align: center;margin-left: 0px">
+        <p>unwrap</p>
+      </div>
+
+
+  <!--start wrapper-->
+      <div class="wrapper">
+        <section>
+            <ul>
+              <li>
+                <div class="container">
+                 <h3>What is Lorem Ipsum?</h3>
+                  <p>is simply dummy text of the printing and industry's<br> standard dummy text ever since the 1500s, when <br>an unknown printer took a galley of type and <br>scrambled it to make a type specimen book.<br> It has survived not only five centuries, </p>
+              </div>
+              </li>
+              <li>
+                <div class="container">
+                 <h3>What is Lorem Ipsum?</h3>
+                  <p>is simply dummy text of the printing and industry's<br> standard dummy text ever since the 1500s, when <br>an unknown printer took a galley of type and <br>scrambled it to make a type specimen book.<br> It has survived not only five centuries, </p>
+              </div>
+              </li>
+              <li>
+                <div class="container">
+                 <h3>What is Lorem Ipsum?</h3>
+                  <p>is simply dummy text of the printing and industry's<br> standard dummy text ever since the 1500s, when <br>an unknown printer took a galley of type and <br>scrambled it to make a type specimen book.<br> It has survived not only five centuries, </p>
+              </div>
+              </li>
+            </ul>
+        </section>
+      </div>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
