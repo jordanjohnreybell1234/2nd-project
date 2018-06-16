@@ -1,0 +1,18 @@
+	html, body{
+          margin: 0;
+	 }
+
+ 	p{
+         margin-top: 0;
+ 	}
+    ul{
+          list-style: none;
+     }
+     .container{
+     	width: 500px;
+     }
+     ul li{
+     	 float: right;
+
+
+     }
